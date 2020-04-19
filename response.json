@@ -1,0 +1,2232 @@
+{
+    "results": [
+        {
+            "sourceIndividual": {
+                "individualIdentifier": "cdb:3:60978223:CS:60040570002848124102001",
+                "alternateIdentifiers": {
+                    "memberId": "",
+                    "subscriberId": "00028481241",
+                    "alternateIds": [
+                        {
+                            "identifier": "829338978"
+                        }
+                    ],
+                    "socialSecurityNumbers": [
+                        {
+                            "identifier": "038604040"
+                        }
+                    ],
+                    "subscriberIds": [
+                        {
+                            "identifier": "00028481241"
+                        }
+                    ],
+                    "alternateSubscriberId": "829338978",
+                    "familyId": 237315817,
+                    "employerAssignedIds": [],
+                    "medicaidRecipientNumbers": [],
+                    "memberAlternateIds": [],
+                    "mbiNumbers": [],
+                    "hicNumbers": [],
+                    "memberReplacementIds": [],
+                    "survivingSpouseIds": [],
+                    "legacyMemberIds": [],
+                    "sourceSystemIds": [
+                        {
+                            "identifier": "60040570002848124102001"
+                        }
+                    ],
+                    "priorMemberIds": []
+                },
+                "streamSourceIdentifiers": {
+                    "cdb": {
+                        "xrefId": 422185422,
+                        "xrefIdPartitionNumber": 222,
+                        "sourceCode": "CS",
+                        "familyPartitionNumber": 217,
+                        "consumerId": 60978223
+                    }
+                },
+                "demographicInfo": {
+                    "personName": {
+                        "firstName": "ALYCIA",
+                        "lastName": "BARCELOU"
+                    },
+                    "birthDate": "1991-04-13",
+                    "socialSecurityNumber": "038604040"
+                },
+                "postalAddresses": [
+                    {
+                        "stateProvinceCode": "RI"
+                    },
+                    {
+                        "stateProvinceCode": "RI"
+                    }
+                ],
+                "eligibilityAttributes": {
+                    "eligibilityRelationshipCode": "002"
+                },
+                "cdbProfileId": 0,
+                "dependentCode": "001",
+                "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.984568Z",
+                "legacyCustomerNumber": "6004057",
+                "legacyCustomAttributes": {
+                    "topsAttributes": {
+                        "dependentNumber": "02"
+                    }
+                },
+                "defaultCustomerAccountIdentifier": "08P1825"
+            },
+            "memberships": [
+                {
+                    "effectiveDate": "2014-01-01",
+                    "terminationDate": "2014-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "B"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.920272Z"
+                },
+                {
+                    "effectiveDate": "2014-01-01",
+                    "terminationDate": "2014-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "A"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.920471Z"
+                },
+                {
+                    "effectiveDate": "2016-01-01",
+                    "terminationDate": "2016-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "M"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.919041Z"
+                },
+                {
+                    "effectiveDate": "2014-01-01",
+                    "terminationDate": "2014-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "E"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.920435Z"
+                },
+                {
+                    "effectiveDate": "2016-01-01",
+                    "terminationDate": "2016-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "U"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.919197Z"
+                },
+                {
+                    "effectiveDate": "2014-01-01",
+                    "terminationDate": "2014-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "V"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.920069Z"
+                },
+                {
+                    "effectiveDate": "2015-01-01",
+                    "terminationDate": "2015-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "VS"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.919390Z"
+                },
+                {
+                    "effectiveDate": "2014-01-01",
+                    "terminationDate": "2014-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "U"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.920509Z"
+                },
+                {
+                    "effectiveDate": "2016-01-01",
+                    "terminationDate": "2016-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "A"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.919160Z"
+                },
+                {
+                    "effectiveDate": "2016-01-01",
+                    "terminationDate": "2016-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {},
+                    "sourceLastUpdatedTimestamp": "2016-10-28T05:57:01.509704Z"
+                },
+                {
+                    "effectiveDate": "2016-01-01",
+                    "terminationDate": "2016-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "E"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.919109Z"
+                },
+                {
+                    "effectiveDate": "2015-01-01",
+                    "terminationDate": "2015-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "RX"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.919327Z"
+                },
+                {
+                    "effectiveDate": "2016-01-01",
+                    "terminationDate": "2016-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "B"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.918955Z"
+                },
+                {
+                    "effectiveDate": "2014-01-01",
+                    "terminationDate": "2014-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "M"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.920353Z"
+                },
+                {
+                    "effectiveDate": "2013-09-01",
+                    "terminationDate": "2013-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "M"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.920846Z"
+                },
+                {
+                    "effectiveDate": "2017-01-01",
+                    "terminationDate": "2017-04-12",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {},
+                    "sourceLastUpdatedTimestamp": "2017-02-14T05:49:14.417046Z"
+                },
+                {
+                    "effectiveDate": "2015-01-01",
+                    "terminationDate": "2015-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "DS"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.919437Z"
+                },
+                {
+                    "effectiveDate": "2013-09-01",
+                    "terminationDate": "2013-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "E"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.920936Z"
+                },
+                {
+                    "effectiveDate": "2013-09-01",
+                    "terminationDate": "2013-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "A"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.920973Z"
+                },
+                {
+                    "effectiveDate": "2013-09-01",
+                    "terminationDate": "2013-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "B"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.920744Z"
+                },
+                {
+                    "effectiveDate": "2014-01-01",
+                    "terminationDate": "2014-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "DS"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.920169Z"
+                },
+                {
+                    "effectiveDate": "2016-01-01",
+                    "terminationDate": "2016-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "RX"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.918750Z"
+                },
+                {
+                    "effectiveDate": "2017-01-01",
+                    "terminationDate": "2017-04-12",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "V"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.918148Z"
+                },
+                {
+                    "effectiveDate": "2017-01-01",
+                    "terminationDate": "2017-04-12",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "U"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.918642Z"
+                },
+                {
+                    "effectiveDate": "2013-09-01",
+                    "terminationDate": "2013-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "U"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.921012Z"
+                },
+                {
+                    "effectiveDate": "2013-09-01",
+                    "terminationDate": "2013-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "RX"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.920616Z"
+                },
+                {
+                    "effectiveDate": "2013-09-01",
+                    "terminationDate": "2013-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "V"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.920579Z"
+                },
+                {
+                    "effectiveDate": "2016-01-01",
+                    "terminationDate": "2016-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "VS"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.918785Z"
+                },
+                {
+                    "effectiveDate": "2015-01-01",
+                    "terminationDate": "2015-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "E"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.919885Z"
+                },
+                {
+                    "effectiveDate": "2017-01-01",
+                    "terminationDate": "2017-04-12",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "VS"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.918244Z"
+                },
+                {
+                    "effectiveDate": "2014-01-01",
+                    "terminationDate": "2014-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "VS"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.920139Z"
+                },
+                {
+                    "effectiveDate": "2015-01-01",
+                    "terminationDate": "2015-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "A"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.919947Z"
+                },
+                {
+                    "effectiveDate": "2015-01-01",
+                    "terminationDate": "2015-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "B"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.919602Z"
+                },
+                {
+                    "effectiveDate": "2017-01-01",
+                    "terminationDate": "2017-04-12",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "E"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.918572Z"
+                },
+                {
+                    "effectiveDate": "2014-01-01",
+                    "terminationDate": "2014-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "RX"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.920104Z"
+                },
+                {
+                    "effectiveDate": "2017-01-01",
+                    "terminationDate": "2017-04-12",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "RX"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.918206Z"
+                },
+                {
+                    "effectiveDate": "2015-01-01",
+                    "terminationDate": "2015-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {},
+                    "sourceLastUpdatedTimestamp": "2016-02-11T06:34:46.703312Z"
+                },
+                {
+                    "effectiveDate": "2013-01-01",
+                    "terminationDate": "2013-08-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "E"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.921376Z"
+                },
+                {
+                    "effectiveDate": "2013-01-01",
+                    "terminationDate": "2013-08-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "B"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.921230Z"
+                },
+                {
+                    "effectiveDate": "2016-01-01",
+                    "terminationDate": "2016-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "DS"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.918874Z"
+                },
+                {
+                    "effectiveDate": "2013-01-01",
+                    "terminationDate": "2013-08-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "A"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.921409Z"
+                },
+                {
+                    "effectiveDate": "2017-01-01",
+                    "terminationDate": "2017-04-12",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "M"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.918489Z"
+                },
+                {
+                    "effectiveDate": "2013-09-01",
+                    "terminationDate": "2013-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "VE"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.920657Z"
+                },
+                {
+                    "effectiveDate": "2015-01-01",
+                    "terminationDate": "2015-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "U"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.919990Z"
+                },
+                {
+                    "effectiveDate": "2013-01-01",
+                    "terminationDate": "2013-08-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "M"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.921305Z"
+                },
+                {
+                    "effectiveDate": "2015-01-01",
+                    "terminationDate": "2015-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "V"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.919263Z"
+                },
+                {
+                    "effectiveDate": "2015-01-01",
+                    "terminationDate": "2015-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "M"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.919759Z"
+                },
+                {
+                    "effectiveDate": "2013-01-01",
+                    "terminationDate": "2013-08-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "V"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.921081Z"
+                },
+                {
+                    "effectiveDate": "2013-01-01",
+                    "terminationDate": "2013-08-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "U"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.921511Z"
+                },
+                {
+                    "effectiveDate": "2017-01-01",
+                    "terminationDate": "2017-04-12",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "B"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.918415Z"
+                },
+                {
+                    "effectiveDate": "2017-01-01",
+                    "terminationDate": "2017-04-12",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "A"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.918605Z"
+                },
+                {
+                    "effectiveDate": "2013-09-01",
+                    "terminationDate": "2013-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {},
+                    "sourceLastUpdatedTimestamp": "2016-02-11T06:34:46.708442Z"
+                },
+                {
+                    "effectiveDate": "2014-01-01",
+                    "terminationDate": "2014-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {},
+                    "sourceLastUpdatedTimestamp": "2016-02-11T06:34:46.707826Z"
+                },
+                {
+                    "effectiveDate": "2013-01-01",
+                    "terminationDate": "2013-08-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "VE"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.921155Z"
+                },
+                {
+                    "effectiveDate": "2016-01-01",
+                    "terminationDate": "2016-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "V"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.918715Z"
+                },
+                {
+                    "effectiveDate": "2013-01-01",
+                    "terminationDate": "2013-08-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "RX"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.921119Z"
+                },
+                {
+                    "effectiveDate": "2013-01-01",
+                    "terminationDate": "2013-08-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {},
+                    "sourceLastUpdatedTimestamp": "2015-11-26T07:11:06.053853Z"
+                },
+                {
+                    "effectiveDate": "2017-01-01",
+                    "terminationDate": "2017-04-12",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "DS"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:55.918298Z"
+                }
+            ],
+            "active": true,
+            "elasticTimestamp": "2020-02-16T14:38:03.651Z",
+            "kafkaTimestamp": "2020-02-16T14:38:03.602Z"
+        },
+        {
+            "sourceIndividual": {
+                "individualIdentifier": "cdb:3:60978223:CS:60040570003860404000001",
+                "alternateIdentifiers": {
+                    "memberId": "",
+                    "subscriberId": "00038604040",
+                    "alternateIds": [
+                        {
+                            "identifier": "974057082"
+                        }
+                    ],
+                    "socialSecurityNumbers": [
+                        {
+                            "identifier": "038604040"
+                        }
+                    ],
+                    "subscriberIds": [
+                        {
+                            "identifier": "00038604040"
+                        }
+                    ],
+                    "alternateSubscriberId": "974057082",
+                    "familyId": 353304573,
+                    "employerAssignedIds": [],
+                    "medicaidRecipientNumbers": [],
+                    "memberAlternateIds": [],
+                    "mbiNumbers": [],
+                    "hicNumbers": [],
+                    "memberReplacementIds": [],
+                    "survivingSpouseIds": [],
+                    "legacyMemberIds": [],
+                    "sourceSystemIds": [
+                        {
+                            "identifier": "60040570003860404000001"
+                        }
+                    ],
+                    "priorMemberIds": []
+                },
+                "streamSourceIdentifiers": {
+                    "cdb": {
+                        "xrefId": 602286333,
+                        "xrefIdPartitionNumber": 33,
+                        "sourceCode": "CS",
+                        "familyPartitionNumber": 273,
+                        "consumerId": 60978223
+                    }
+                },
+                "demographicInfo": {
+                    "personName": {
+                        "firstName": "ALYCIA",
+                        "lastName": "BARCELOU"
+                    },
+                    "birthDate": "1991-04-13",
+                    "socialSecurityNumber": "038604040"
+                },
+                "postalAddresses": [
+                    {
+                        "stateProvinceCode": "MA"
+                    },
+                    {
+                        "stateProvinceCode": "MA"
+                    }
+                ],
+                "eligibilityAttributes": {
+                    "eligibilityRelationshipCode": "000"
+                },
+                "cdbProfileId": 0,
+                "dependentCode": "001",
+                "sourceLastUpdatedTimestamp": "2020-02-18T07:03:24.209144Z",
+                "legacyCustomerNumber": "6004057",
+                "legacyCustomAttributes": {
+                    "topsAttributes": {
+                        "dependentNumber": "00"
+                    }
+                },
+                "defaultCustomerAccountIdentifier": "08P1825"
+            },
+            "memberships": [
+                {
+                    "effectiveDate": "2018-01-01",
+                    "terminationDate": "2018-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "M"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.768386Z"
+                },
+                {
+                    "effectiveDate": "2017-12-01",
+                    "terminationDate": "2017-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "E"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.769385Z"
+                },
+                {
+                    "effectiveDate": "2017-05-01",
+                    "terminationDate": "2017-09-30",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "DS"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.770531Z"
+                },
+                {
+                    "effectiveDate": "2019-01-01",
+                    "terminationDate": "2019-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {},
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.776414Z"
+                },
+                {
+                    "effectiveDate": "2018-01-01",
+                    "terminationDate": "2018-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "E"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.768461Z"
+                },
+                {
+                    "effectiveDate": "2017-12-01",
+                    "terminationDate": "2017-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "M"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.769146Z"
+                },
+                {
+                    "effectiveDate": "2018-01-01",
+                    "terminationDate": "2018-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "B"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.768311Z"
+                },
+                {
+                    "effectiveDate": "2018-01-01",
+                    "terminationDate": "2018-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "A"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.768495Z"
+                },
+                {
+                    "effectiveDate": "2017-12-01",
+                    "terminationDate": "2017-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "DS"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.768799Z"
+                },
+                {
+                    "effectiveDate": "2017-12-01",
+                    "terminationDate": "2017-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "A"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.769418Z"
+                },
+                {
+                    "effectiveDate": "2018-01-01",
+                    "terminationDate": "2018-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "DS"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.768238Z"
+                },
+                {
+                    "effectiveDate": "2017-12-01",
+                    "terminationDate": "2017-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "B"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.768882Z"
+                },
+                {
+                    "effectiveDate": "2020-01-01",
+                    "terminationDate": "9999-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "B"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.764682Z"
+                },
+                {
+                    "effectiveDate": "2020-01-01",
+                    "terminationDate": "9999-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {},
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.776079Z"
+                },
+                {
+                    "effectiveDate": "2020-01-01",
+                    "terminationDate": "9999-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "A"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.767158Z"
+                },
+                {
+                    "effectiveDate": "2020-01-01",
+                    "terminationDate": "9999-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "E"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.767057Z"
+                },
+                {
+                    "effectiveDate": "2017-05-01",
+                    "terminationDate": "2017-09-30",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {},
+                    "sourceLastUpdatedTimestamp": "2017-09-12T05:28:29.009417Z"
+                },
+                {
+                    "effectiveDate": "2019-01-01",
+                    "terminationDate": "2019-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "A"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.768022Z"
+                },
+                {
+                    "effectiveDate": "2019-01-01",
+                    "terminationDate": "2019-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "B"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.767828Z"
+                },
+                {
+                    "effectiveDate": "2020-01-01",
+                    "terminationDate": "9999-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "M"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.790448Z"
+                },
+                {
+                    "effectiveDate": "2017-12-01",
+                    "terminationDate": "2017-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "U"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.769454Z"
+                },
+                {
+                    "effectiveDate": "2019-01-01",
+                    "terminationDate": "2019-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "E"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.767986Z"
+                },
+                {
+                    "effectiveDate": "2017-12-01",
+                    "terminationDate": "2017-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "V"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.768694Z"
+                },
+                {
+                    "effectiveDate": "2017-10-01",
+                    "terminationDate": "2017-11-30",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "RX"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.769603Z"
+                },
+                {
+                    "effectiveDate": "2017-05-01",
+                    "terminationDate": "2017-09-30",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "RX"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.770452Z"
+                },
+                {
+                    "effectiveDate": "2018-01-01",
+                    "terminationDate": "2018-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {},
+                    "sourceLastUpdatedTimestamp": "2018-09-22T05:59:50.064020Z"
+                },
+                {
+                    "effectiveDate": "2020-01-01",
+                    "terminationDate": "9999-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "V"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.792743Z"
+                },
+                {
+                    "effectiveDate": "2020-01-01",
+                    "terminationDate": "9999-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "DS"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.764549Z"
+                },
+                {
+                    "effectiveDate": "2020-01-01",
+                    "terminationDate": "9999-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "U"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.767208Z"
+                },
+                {
+                    "effectiveDate": "2019-01-01",
+                    "terminationDate": "2019-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "M"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.792980Z"
+                },
+                {
+                    "effectiveDate": "2017-05-01",
+                    "terminationDate": "2017-09-30",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "VS"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.770495Z"
+                },
+                {
+                    "effectiveDate": "2017-10-01",
+                    "terminationDate": "2017-11-30",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "VS"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.769634Z"
+                },
+                {
+                    "effectiveDate": "2019-01-01",
+                    "terminationDate": "2019-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "U"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.768061Z"
+                },
+                {
+                    "effectiveDate": "2019-01-01",
+                    "terminationDate": "2019-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "V"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.793070Z"
+                },
+                {
+                    "effectiveDate": "2017-10-01",
+                    "terminationDate": "2017-11-30",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {},
+                    "sourceLastUpdatedTimestamp": "2018-01-23T06:29:27.493789Z"
+                },
+                {
+                    "effectiveDate": "2019-01-01",
+                    "terminationDate": "2019-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "DS"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.767723Z"
+                },
+                {
+                    "effectiveDate": "2017-10-01",
+                    "terminationDate": "2017-11-30",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "U"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.770312Z"
+                },
+                {
+                    "effectiveDate": "2017-10-01",
+                    "terminationDate": "2017-11-30",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "V"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.769518Z"
+                },
+                {
+                    "effectiveDate": "2017-10-01",
+                    "terminationDate": "2017-11-30",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "DS"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.769667Z"
+                },
+                {
+                    "effectiveDate": "2020-01-01",
+                    "terminationDate": "9999-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "VS"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.760303Z"
+                },
+                {
+                    "effectiveDate": "2017-12-01",
+                    "terminationDate": "2017-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {},
+                    "sourceLastUpdatedTimestamp": "2018-01-23T06:29:27.493625Z"
+                },
+                {
+                    "effectiveDate": "2017-12-01",
+                    "terminationDate": "2017-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "RX"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.768730Z"
+                },
+                {
+                    "effectiveDate": "2017-05-01",
+                    "terminationDate": "2017-09-30",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "A"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.771305Z"
+                },
+                {
+                    "effectiveDate": "2017-05-01",
+                    "terminationDate": "2017-09-30",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "B"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.770721Z"
+                },
+                {
+                    "effectiveDate": "2017-05-01",
+                    "terminationDate": "2017-09-30",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "E"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.771099Z"
+                },
+                {
+                    "effectiveDate": "2017-10-01",
+                    "terminationDate": "2017-11-30",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "A"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.770231Z"
+                },
+                {
+                    "effectiveDate": "2018-01-01",
+                    "terminationDate": "2018-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "RX"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.768170Z"
+                },
+                {
+                    "effectiveDate": "2017-10-01",
+                    "terminationDate": "2017-11-30",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "B"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.769876Z"
+                },
+                {
+                    "effectiveDate": "2017-12-01",
+                    "terminationDate": "2017-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "VS"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.768765Z"
+                },
+                {
+                    "effectiveDate": "2018-01-01",
+                    "terminationDate": "2018-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "VS"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.768203Z"
+                },
+                {
+                    "effectiveDate": "2017-10-01",
+                    "terminationDate": "2017-11-30",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "M"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.769967Z"
+                },
+                {
+                    "effectiveDate": "2019-01-01",
+                    "terminationDate": "2019-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "VS"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.767687Z"
+                },
+                {
+                    "effectiveDate": "2020-01-01",
+                    "terminationDate": "9999-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "RX"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.760252Z"
+                },
+                {
+                    "effectiveDate": "2017-05-01",
+                    "terminationDate": "2017-09-30",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "U"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.771352Z"
+                },
+                {
+                    "effectiveDate": "2017-05-01",
+                    "terminationDate": "2017-09-30",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "V"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.770382Z"
+                },
+                {
+                    "effectiveDate": "2018-01-01",
+                    "terminationDate": "2018-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "V"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.768137Z"
+                },
+                {
+                    "effectiveDate": "2018-01-01",
+                    "terminationDate": "2018-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "U"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.768529Z"
+                },
+                {
+                    "effectiveDate": "2017-10-01",
+                    "terminationDate": "2017-11-30",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "E"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.770160Z"
+                },
+                {
+                    "effectiveDate": "2019-01-01",
+                    "terminationDate": "2019-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "RX"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.767650Z"
+                },
+                {
+                    "effectiveDate": "2017-05-01",
+                    "terminationDate": "2017-09-30",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "M"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T04:56:50.770807Z"
+                }
+            ],
+            "active": true,
+            "elasticTimestamp": "2020-02-18T07:07:18.179Z",
+            "kafkaTimestamp": "2020-02-18T07:07:18.034Z"
+        },
+        {
+            "sourceIndividual": {
+                "individualIdentifier": "cdb:3:60978223:PR:08P182502848124102",
+                "alternateIdentifiers": {
+                    "memberId": "",
+                    "subscriberId": "028481241",
+                    "alternateIds": [
+                        {
+                            "identifier": "829338978"
+                        }
+                    ],
+                    "socialSecurityNumbers": [
+                        {
+                            "identifier": "038604040"
+                        }
+                    ],
+                    "subscriberIds": [
+                        {
+                            "identifier": "028481241"
+                        }
+                    ],
+                    "alternateSubscriberId": "829338978",
+                    "familyId": 237296488,
+                    "employerAssignedIds": [],
+                    "medicaidRecipientNumbers": [],
+                    "memberAlternateIds": [],
+                    "mbiNumbers": [],
+                    "hicNumbers": [],
+                    "memberReplacementIds": [],
+                    "survivingSpouseIds": [],
+                    "legacyMemberIds": [],
+                    "sourceSystemIds": [
+                        {
+                            "identifier": "08P182502848124102"
+                        }
+                    ],
+                    "priorMemberIds": []
+                },
+                "streamSourceIdentifiers": {
+                    "cdb": {
+                        "xrefId": 422152199,
+                        "xrefIdPartitionNumber": 299,
+                        "sourceCode": "PR",
+                        "familyPartitionNumber": 88,
+                        "consumerId": 60978223
+                    }
+                },
+                "demographicInfo": {
+                    "personName": {
+                        "firstName": "ALYCIA",
+                        "lastName": "BARCELOU"
+                    },
+                    "birthDate": "1991-04-13",
+                    "socialSecurityNumber": "038604040"
+                },
+                "postalAddresses": [
+                    {
+                        "stateProvinceCode": "RI"
+                    }
+                ],
+                "eligibilityAttributes": {
+                    "eligibilityRelationshipCode": "002"
+                },
+                "cdbProfileId": 0,
+                "dependentCode": "02",
+                "sourceLastUpdatedTimestamp": "2019-09-21T21:18:53.835055Z",
+                "legacyCustomerNumber": "",
+                "legacyCustomAttributes": {
+                    "topsAttributes": {
+                        "dependentNumber": ""
+                    }
+                },
+                "defaultCustomerAccountIdentifier": "08P1825"
+            },
+            "memberships": [
+                {
+                    "effectiveDate": "2015-01-01",
+                    "terminationDate": "2015-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "D"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T08:37:03.974849Z"
+                },
+                {
+                    "effectiveDate": "2014-01-01",
+                    "terminationDate": "2014-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "D"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T08:37:03.974870Z"
+                },
+                {
+                    "effectiveDate": "2017-01-01",
+                    "terminationDate": "2017-04-12",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "D"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T08:37:03.974535Z"
+                },
+                {
+                    "effectiveDate": "2016-01-01",
+                    "terminationDate": "2016-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "D"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T08:37:03.974822Z"
+                },
+                {
+                    "effectiveDate": "2013-01-01",
+                    "terminationDate": "2013-08-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "D"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T08:37:03.975107Z"
+                },
+                {
+                    "effectiveDate": "2013-09-01",
+                    "terminationDate": "2013-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "D"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T08:37:03.974891Z"
+                }
+            ],
+            "active": true,
+            "elasticTimestamp": "2020-01-29T01:42:15.891Z",
+            "kafkaTimestamp": "2019-12-12T13:20:18.574Z"
+        },
+        {
+            "sourceIndividual": {
+                "individualIdentifier": "cdb:3:60978223:PR:08P182503860404000",
+                "alternateIdentifiers": {
+                    "memberId": "",
+                    "subscriberId": "038604040",
+                    "alternateIds": [
+                        {
+                            "identifier": "974057082"
+                        }
+                    ],
+                    "socialSecurityNumbers": [
+                        {
+                            "identifier": "038604040"
+                        }
+                    ],
+                    "subscriberIds": [
+                        {
+                            "identifier": "038604040"
+                        }
+                    ],
+                    "alternateSubscriberId": "974057082",
+                    "familyId": 353301748,
+                    "employerAssignedIds": [],
+                    "medicaidRecipientNumbers": [],
+                    "memberAlternateIds": [],
+                    "mbiNumbers": [],
+                    "hicNumbers": [],
+                    "memberReplacementIds": [],
+                    "survivingSpouseIds": [],
+                    "legacyMemberIds": [],
+                    "sourceSystemIds": [
+                        {
+                            "identifier": "08P182503860404000"
+                        }
+                    ],
+                    "priorMemberIds": []
+                },
+                "streamSourceIdentifiers": {
+                    "cdb": {
+                        "xrefId": 602281185,
+                        "xrefIdPartitionNumber": 285,
+                        "sourceCode": "PR",
+                        "familyPartitionNumber": 148,
+                        "consumerId": 60978223
+                    }
+                },
+                "demographicInfo": {
+                    "personName": {
+                        "firstName": "ALYCIA",
+                        "lastName": "BARCELOU"
+                    },
+                    "birthDate": "1991-04-13",
+                    "socialSecurityNumber": "038604040"
+                },
+                "postalAddresses": [
+                    {
+                        "stateProvinceCode": "MA"
+                    }
+                ],
+                "eligibilityAttributes": {
+                    "eligibilityRelationshipCode": "000"
+                },
+                "cdbProfileId": 0,
+                "dependentCode": "00",
+                "sourceLastUpdatedTimestamp": "2019-09-21T21:18:53.836496Z",
+                "legacyCustomerNumber": "",
+                "legacyCustomAttributes": {
+                    "topsAttributes": {
+                        "dependentNumber": ""
+                    }
+                },
+                "defaultCustomerAccountIdentifier": "08P1825"
+            },
+            "memberships": [
+                {
+                    "effectiveDate": "2017-05-01",
+                    "terminationDate": "2017-09-30",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "D"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T08:35:35.226116Z"
+                },
+                {
+                    "effectiveDate": "2019-01-01",
+                    "terminationDate": "2019-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "D"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T08:35:35.225456Z"
+                },
+                {
+                    "effectiveDate": "2020-01-01",
+                    "terminationDate": "9999-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "D"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T08:35:35.222416Z"
+                },
+                {
+                    "effectiveDate": "2017-10-01",
+                    "terminationDate": "2017-11-30",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "D"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T08:35:35.226089Z"
+                },
+                {
+                    "effectiveDate": "2018-01-01",
+                    "terminationDate": "2018-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "D"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T08:35:35.226036Z"
+                },
+                {
+                    "effectiveDate": "2017-12-01",
+                    "terminationDate": "2017-12-31",
+                    "divisionCode": "",
+                    "customerAccount": {
+                        "identifier": "08P1825"
+                    },
+                    "cdbProfileId": 0,
+                    "product": {
+                        "healthCoverageTypeCode": {
+                            "code": "D"
+                        }
+                    },
+                    "sourceLastUpdatedTimestamp": "2019-10-30T08:35:35.226064Z"
+                }
+            ],
+            "active": true,
+            "elasticTimestamp": "2020-01-29T02:00:05.674Z",
+            "kafkaTimestamp": "2019-12-12T12:49:55.175Z"
+        }
+    ]
+}
